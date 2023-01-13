@@ -6,7 +6,7 @@
 
 ![Rio Yulinanda Photo](/assets/resize.jpg)
 
-<p>My experience began when I was studying abroad in Hospitality Area, especially in Culinary, then worked in many restaurants, cruise ships, and hotels.</p>
+My experience began when I was studying abroad in Hospitality Area, especially in Culinary, then worked in many restaurants, cruise ships, and hotels.
 
 Then I also have skills in Business Development in Technology Industry, I was working casually for a System Integrator company, that represent products like ERP, IT Hardware, Project Management, CRM, etc.
 
