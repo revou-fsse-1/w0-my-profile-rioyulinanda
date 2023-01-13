@@ -1,8 +1,10 @@
 # Rio Yulinanda Profile
 
+> This is an assignment example for "My Profile"
+
 ## My Bio
 
-> Hi I'm Rio. Currenly I am working as a Pastry Chef.
+Hi I'm Rio. Currenly I am working as a Pastry Chef.
 
 ![Rio Yulinanda Photo](/assets/resize.jpg)
 
