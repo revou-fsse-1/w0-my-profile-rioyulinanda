@@ -38,7 +38,6 @@ For now, while I working as a Pastry Chef, I also have an interest in the Softwa
 ### Markdown
 
 ```markdown
-
 **Hello Word**
 
 This is a Bold Text
@@ -47,9 +46,25 @@ This is a Bold Text
 ### HTML
 
 ```html
+<main class="content">
+    <h1><strong>Hello World</strong></h1>
+</main>
+```
 
-<b>Hello World</b>
+### CSS
 
+```css
+.content {
+  color: #111;
+  font-size: 1.6rem;
+}
+```
+
+### JavaScript
+
+```js
+const text = "Hello World";
+console.log(text);
 ```
 
 
